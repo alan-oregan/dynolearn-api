@@ -1,0 +1,33 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Dynolearn-API Prod",
+    "collectionId": "0b736c12-9a75-4eb5-8e21-137cc66eaa13",
+    "dateExported": "2024-04-27T16:25:27.537Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "b5a5550d-39f4-4a8e-b74f-950ff894a71f",
+            "colId": "0b736c12-9a75-4eb5-8e21-137cc66eaa13",
+            "containerId": "",
+            "name": "/generateTasks",
+            "url": "/generateTasks",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-04-27T16:01:49.933Z",
+            "modified": "2024-04-27T16:02:41.244Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"name\": \"Alan\",\n  \"age\": \"5\",\n  \"reading_level\": \"5\",\n  \"teaching_task\": \"How to identify emotions\"\n}",
+                "form": []
+            }
+        }
+    ],
+    "settings": {
+        "options": {
+            "baseUrl": "https://dynolearn-api.azurewebsites.net/api"
+        }
+    },
+    "ref": "6DIHTngI2Zm64D9f9CnMcIK2A0SrmH7y8EXUb_TbqQZbvQKU35yuvUDLT_2cVkPf-FWc-EowbbHTLzxK0I1OAw"
+}
