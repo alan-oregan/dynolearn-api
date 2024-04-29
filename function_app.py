@@ -20,7 +20,7 @@ You are a helpful designer for a childrens digital game company<|im_end|>
 
 Make a list of 10 suitable game scene tasks to learn {teaching_task}.
 
-Just list out each item 1 by 1 as a JSON list. Only provide the list of tasks, do not include the question or any other information, just the list of tasks.<|im_end|>
+Just list out each item 1 by 1 as a JSON list. Do not include the question or any other information, just the list of tasks as strings.<|im_end|>
 <|im_start|>assistant
 """
 
